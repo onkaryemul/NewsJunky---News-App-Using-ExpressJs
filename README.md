@@ -40,26 +40,26 @@ NewsJunky is a web application that allows users to explore and read news articl
 1. Clone the repository:
    
    ```bash
-     git clone https://github.com/onkaryemul/NewsJunky---News-App-Using-ExpressJs.git
+      git clone https://github.com/onkaryemul/NewsJunky---News-App-Using-ExpressJs.git
    ```
 
 2. Navigate to the project directory:
 
-  ```bash
-    cd NewsJunky---News-App-Using-ExpressJs
-  ```
+   ```bash
+      cd NewsJunky---News-App-Using-ExpressJs
+   ```
 
 3. Install dependencies:
 
-  ```bash
-    npm install
-  ```
+   ```bash
+      npm install
+   ```
 
 4. Create a .env file in the project root and add your News API key:
 
-  ```env
-    NEWS_API_KEY=your_news_api_key
-  ```
+   ```env
+      NEWS_API_KEY=your_news_api_key
+   ```
 
   Replace your_news_api_key with your actual API key.
 
